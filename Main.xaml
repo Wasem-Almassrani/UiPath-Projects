@@ -420,7 +420,7 @@
           <OutArgument x:TypeArguments="x:String">[greeting]</OutArgument>
         </Assign.To>
         <Assign.Value>
-          <InArgument x:TypeArguments="x:String">hallo wasem 2024</InArgument>
+          <InArgument x:TypeArguments="x:String">hallo world/InArgument>
         </Assign.Value>
       </Assign>
       <ui:MessageBox AutoCloseAfter="00:00:00" Buttons="Ok" ChosenButton="[chosenButton]" DisplayName="Display `greeting` using MessageBox" sap:VirtualizedContainerService.HintSize="434,109" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[greeting]" TopMost="False">
